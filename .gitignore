@@ -1,3 +1,4 @@
 .env
 /data
 .env
+docker_commands.txt
